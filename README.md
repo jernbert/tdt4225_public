@@ -1,0 +1,1 @@
+This repo was set up to demonstrate knowledge of SQL. There are examples of SQL-queries both in the `report.pdf` as well as in the `task*.py`-scripts.
